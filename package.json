@@ -2,7 +2,7 @@
   "name": "saas-boilerplate",
   "version": "1.6.1",
   "engines": {
-    "node": "22.6.0"
+    "node": ">=22.6.0"
   },
   "scripts": {
     "dev:spotlight": "spotlight-sidecar",
